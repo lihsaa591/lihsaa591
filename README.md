@@ -15,6 +15,7 @@ I work on **Masteriyo** (a WordPress LMS plugin) and other products in the compa
 - **Currently working on**: Product research and roadmap planning for Masteriyo and other company products
 - **Currently exploring**: Tools that make everyday habits (like fitness tracking) simpler to stick with
 - **Ask me about**: WordPress plugin architecture, product prioritization, telemetry analysis
+- **Outside of work**: Playing Dota 2, Riding my bike, and hunting down good coffee
 - **Reach me**: [bijuksheashil@gmail.com](mailto:bijuksheashil@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aashil-bijukshe-79aa93120)
 
 ---
